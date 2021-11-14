@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syem Ishaque</title>
+    <link>https://sishaque.github.io/Syems_portfolio/</link>
+    <description>Recent content on Syem Ishaque</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://sishaque.github.io/Syems_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: NLP web app development and deployment using FastAPI and Heroku</title>
+      <link>https://sishaque.github.io/Syems_portfolio/post/project-1/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/post/project-1/</guid>
+      <description>•	Designed the process behind developing and deploying a ML NLP model using sentiments from user reviews.
+•	Implemented a NLP model web app using python and FastAPI, which can analyze sentiments using texts as user input.
+•	Deployed the model in GitHub using Heroku.
+•	Trained a NLP model using python and pickle and develop a ML platform using FastAPI.
+•	The model can predict user sentiments using reviews or texts as input.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Stress Classification using 2D ECG Images and Computer Vision</title>
+      <link>https://sishaque.github.io/Syems_portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/post/project-2/</guid>
+      <description>Design of converting 1D ECG data to 2D ECG images using python and OpenCV    •	Utilized Python and Open CV to convert 1D ECG signals to 2D images and saved the data in Google Drive using the os package.
+•	Innovated the first ever stress image dataset, capable of predicting stress using images.
+•	Performed better than 1D data, predicted stress with 95.25% accuracy.
+•	Image detection has made it possible to detect credit card fraud, faces and diseases using near perfect accuracy and at a rapid pace.</description>
+    </item>
+    
+    <item>
+      <title>Devlopment of state-of-the-art machine learning algorithms using autoencoder and transfer learning techniques </title>
+      <link>https://sishaque.github.io/Syems_portfolio/post/project-6/</link>
+      <pubDate>Wed, 14 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/post/project-6/</guid>
+      <description>Design and model architecture of a novel 1D VGG16 transfer learning algorithm    •	Developed SOTA machine learning algorithm using python.
+•	Develop a novel SOTA CNN algorithm using transfer learning and autoencoder techniques. Predicted stress with 99.61%.
+•	Developed a novel 1D VGG16 algorithm for the very first time, using transfer learning and autoencoder techniques. Predicted stress with 99.72%.
+•	Overfitting and time complexity is an on-going and recurrent problem associated with classification of 1D data using deep learning, which was mitigated with transfer learning and autoencoder techniques.</description>
+    </item>
+    
+    <item>
+      <title>Research publications in top tier journals like IEEE EMBC and Frontiers in Digital Health</title>
+      <link>https://sishaque.github.io/Syems_portfolio/post/project-5/</link>
+      <pubDate>Tue, 13 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/post/project-5/</guid>
+      <description>•	Published 2 research papers in top tier Journals (IEEE EMBC and Frontiers in Digital Health).
+•	Collaborated with leading industries like Intel and Shaftesbury inc, in order to analyze and develop insights about the aptitude of their products for machine learning applications and mitigating stress.
+•	Collaborated with Shaftesbury inc, in order to understand the impact of their novel VR video game (which was simulated using unity 3D) for mitigating stress.</description>
+    </item>
+    
+    <item>
+      <title>Novel DT from scratch using python and object-oriented programming and developed four vidoe game web apps using Javascript, html and css</title>
+      <link>https://sishaque.github.io/Syems_portfolio/post/project-4/</link>
+      <pubDate>Sun, 12 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/post/project-4/</guid>
+      <description>Utilized Javascript, html and css to develop a blackjack video game app   •	Developed a novel and more effective DT cart model from scratch using a novel gini index.
+•	The algorithm was developed using python and object-oriented programming.
+•	Unlike other DT algorithm, the gini index ranks the decisions and organizes them accordingly, rather than using majority voting, resulting in a lower time complexity and more efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Autoencoder to reduce data complexity, redundancy and noise. A Semi-Supervised method to predict credit card fraud with SOTA</title>
+      <link>https://sishaque.github.io/Syems_portfolio/post/project-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/post/project-3/</guid>
+      <description>•	Data Imbalance is a significant problem which is often overlooked, leading to biased data, and overfitting.
+•	Utilized python to develop a novel autoencoder algorithm capable of significantly reducing data complexity, noise and redundancy.
+•	Utilized semi-supervised learning to predict credit card fraud with SOTA using a proposed neural network.
+•	Significantly reduced the amount of data imbalance and intertwined data using an unsupervised autoencoder.
+  Significantly reduced the amount of interwined data using an autoencoder algorithm   Github Repository: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sishaque.github.io/Syems_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/contact/</guid>
+      <description>Feel free to contact me via phone or email. You can also add me on linkedin or check out some of my projects on github.
+Contact me through:
+   Contact Information      Cell: (+1)647-994-0792    Email: https://syemishaque1@gmail.com        Platform URL     Linkedin: https://www.linkedin.com/in/syem-ishaque-007b28122/   Github: https://github.com/sishaque    </description>
+    </item>
+    
+  </channel>
+</rss>

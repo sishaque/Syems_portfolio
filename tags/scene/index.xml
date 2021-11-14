@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Syem Ishaque</title>
+    <link>https://sishaque.github.io/Syems_portfolio/tags/scene/</link>
+    <description>Recent content in scene on Syem Ishaque</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://sishaque.github.io/Syems_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: NLP web app development and deployment using FastAPI and Heroku</title>
+      <link>https://sishaque.github.io/Syems_portfolio/post/project-1/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sishaque.github.io/Syems_portfolio/post/project-1/</guid>
+      <description>•	Designed the process behind developing and deploying a ML NLP model using sentiments from user reviews.
+•	Implemented a NLP model web app using python and FastAPI, which can analyze sentiments using texts as user input.
+•	Deployed the model in GitHub using Heroku.
+•	Trained a NLP model using python and pickle and develop a ML platform using FastAPI.
+•	The model can predict user sentiments using reviews or texts as input.</description>
+    </item>
+    
+  </channel>
+</rss>
